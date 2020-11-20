@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_GeneratorAsset: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: f0ff3bc3d8dced34b9698875333aa5cb, type: 3}
+  m_Name: malletPiano
+  m_EditorClassIdentifier: 
+  C: {fileID: 8300000, guid: 1bd47ff056f73bc4ea74ee0f1f066ffe, type: 3}
+  Csharp: {fileID: 8300000, guid: ddc13a7f1fa7d664fb8edf7b85474151, type: 3}
+  D: {fileID: 8300000, guid: c1f84dd1542b2c548a8a10ccfa1653fe, type: 3}
+  Dsharp: {fileID: 8300000, guid: 714a4c9ee83cdf8438b1afe5a419b93b, type: 3}
+  E: {fileID: 8300000, guid: f3d625edc771204429bdcf564112d74a, type: 3}
+  F: {fileID: 8300000, guid: fe0bcb210476c244689db3413ddd72d0, type: 3}
+  Fsharp: {fileID: 8300000, guid: ba4e6158a28eeda48b2876800decf662, type: 3}
+  G: {fileID: 8300000, guid: ebd91987dc43abc40886f941232dae63, type: 3}
+  Gsharp: {fileID: 8300000, guid: 6953a06d47998604b82937beddef2e53, type: 3}
+  A: {fileID: 8300000, guid: 842ecd845f750a24da4d80f4f830d9cb, type: 3}
+  Asharp: {fileID: 8300000, guid: 3bd407f8daa6b2f43a08d263293f1f3c, type: 3}
+  B: {fileID: 8300000, guid: 3216477ff5081064f97bbdf685ec11a4, type: 3}

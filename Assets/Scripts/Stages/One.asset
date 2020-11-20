@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_GeneratorAsset: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 14ef2f03f34984a4ca920a2321a27a46, type: 3}
+  m_Name: One
+  m_EditorClassIdentifier: 
+  stageType: 0
+  minEnemySpeed: 0.3
+  maxEnemySpeed: 0.7
+  minNumberOfEnemiesPerPool: 3
+  maxNumberOfEnemiesPerPool: 5
+  spawnDelay: 1
+  correctChordHealAmount: 5
+  wrongNoteDamageAmount: 5
+  enemyDamageAmount: 10
+  weightedChordList:
+  - chordType: 0
+    weight: 33
+  - chordType: 1
+    weight: 33
+  - chordType: 2
+    weight: 33
+  weightedMusicalNoteList:
+  - noteType: 0
+    weight: 10
+  - noteType: 1
+    weight: 10
+  - noteType: 2
+    weight: 10
+  - noteType: 3
+    weight: 10
+  - noteType: 4
+    weight: 10
+  - noteType: 5
+    weight: 10
+  - noteType: 6
+    weight: 10
+  - noteType: 7
+    weight: 10
+  - noteType: 8
+    weight: 10
+  - noteType: 9
+    weight: 10
+  - noteType: 10
+    weight: 10
+  - noteType: 11
+    weight: 10
+  totalChordsWeight: 99
+  totalNotesWeight: 120
